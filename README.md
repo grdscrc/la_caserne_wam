@@ -1,3 +1,9 @@
+# Welcome
+
+https://play.workadventu.re/_/global/grdscrc.github.io/la_caserne_wam/map.json
+
+__Base instructions below__
+
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
