@@ -7,7 +7,7 @@
          "target":"."
         }
     },
- "image":"..\/Downloads\/submission_daneeklu\/tilesets\/plants.png",
+ "image":".\/plants.png",
  "imageheight":384,
  "imagewidth":224,
  "margin":0,
