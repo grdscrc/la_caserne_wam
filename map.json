@@ -78,7 +78,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ItStartsWivOneTing"
+                 "value":""
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -101,7 +101,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ProtoIsNotDead"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
