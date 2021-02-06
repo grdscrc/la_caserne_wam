@@ -53,14 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/soundcloud.com\/zen-music-3\/zen-garden-meditacion-music-de"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
+                 "value":"http:\/\/www1.radionoordvaarder.nl:8080\/Reiki\/Musica%20per%20Chakra,%20Meditazione%20e%20Reiki%20vol.%202\/Relax%20-%20Buddhist%20Meditation%20Music%20-%20Zen%20Garden%20-%20Kokin%20Gumi%20-%20Daylight.mp3"
                 }, 
                 {
                  "name":"silent",
