@@ -19,7 +19,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/prototyper\/prototyper\/caserne"
                 }],
          "type":"tilelayer",
          "visible":true,
