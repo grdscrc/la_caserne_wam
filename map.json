@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/prototyper\/prototyper\/guinguette"
+                 "value":"https:\/\/play.workadventu.re\/@\/prototyper\/prototyper\/guinguette"
                 }],
          "type":"tilelayer",
          "visible":true,
