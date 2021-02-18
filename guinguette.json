@@ -45,12 +45,6 @@
          "id":1,
          "name":"bottom",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":".\/map.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
