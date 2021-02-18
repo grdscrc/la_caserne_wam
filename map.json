@@ -142,7 +142,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/https:\/\/awwapp.com\/#"
+                 "value":"https:\/\/awwapp.com\/#"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
